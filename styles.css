@@ -126,3 +126,30 @@ main {
     max-width: 900px;
     margin:0 auto;
 }
+
+.main-exchange-container .backgroundImg {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    background-image: url('assets/img/Bitcoin.svg');
+    background-size: cover; /*Esto ayuda a que no se altere el tamaño de la imagen*/
+    background-position: center; /*Siempre lo mantendrá en el centro*/
+    background-repeat: no-repeat;   
+}
+
+.main-exchange-container h2 {
+    margin-bottom: 30px;
+    font-size: 2.4rem; /*Means 24px*/
+    font-weight: bold;
+    line-height: 2.6rem;
+    color: var(--black);
+}
+
+.main-exchange-container p {
+    margin-bottom: 30px;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.6rem;
+    color: #757575;
+}
