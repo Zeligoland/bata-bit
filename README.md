@@ -13,4 +13,10 @@ This is my practice for Mobile First Diego de Granda's Platzi Course creating a 
 
 - **La etiqueta <td>:** _Table Data_ Hace referencia a la información que va a tener esta fila.
 
+- Para agregar íconos en el contenido html una buena opción es usar la etiqueta <span></span>, que crea un espacio dentro del contenido.
+
+-Según la metodología BEM cada que voy a tener un identificador especial debemos usar __ para diferenciar lo que es un elemento, un bloque y un modificador.
+
+
+
 
