@@ -154,3 +154,21 @@ main {
     color: #757575;
 }
 
+.main-currency-table {
+    width: 70%;
+    min-width: 235px;
+    max-width: 500px;
+    height: 360px;
+    margin: 0 auto; /*No agregará de arriba a abajo e izquierdo y derecho calculará automáticamente*/
+    font-family: "Inter", sans-serif;
+}
+
+.main-currency-table .main-exchange-container--title {
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--bitcoin-orange);
+    
+
+}
