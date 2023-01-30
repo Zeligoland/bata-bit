@@ -17,6 +17,7 @@ This is my practice for Mobile First Diego de Granda's Platzi Course creating a 
 
 -Según la metodología BEM cada que voy a tener un identificador especial debemos usar __ para diferenciar lo que es un elemento, un bloque y un modificador.
 
+- Para modificar una tabla es necesario acudir a las filas. Si se hace a través de la etiqueta table puede que los estilos no funcionen, dado que esta etiqueta nos sirve como referencia y contenedor para las tablas, mas no para estilos específicos de la tabla.
 
 
 
