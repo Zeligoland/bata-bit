@@ -19,5 +19,6 @@ This is my practice for Mobile First Diego de Granda's Platzi Course creating a 
 
 - Para modificar una tabla es necesario acudir a las filas. Si se hace a través de la etiqueta table puede que los estilos no funcionen, dado que esta etiqueta nos sirve como referencia y contenedor para las tablas, mas no para estilos específicos de la tabla.
 
+- Contenedor principal que todas las etiquetas de párrafo que estén adentro tengan ciertos estilos. Conflictos de herencia. La especificidad de dos clases es la misma, las dos clases refieren a lo mismo.  Para resolverlo, la característica se aplica en la última clase. Al aplicar la característica en la última clase, vamos a "reescribir" los estilos y de esta manera se aplicarán.
 
 
