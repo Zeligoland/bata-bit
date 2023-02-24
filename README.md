@@ -23,4 +23,14 @@ This is my practice for Mobile First Diego de Granda's Platzi Course creating a 
 
 - En la metodología BEM que sirve para denominar idealmente las clases en HTML los -- son los que señalan al elemento.
 
+- La propiedad min-width permite ajustar un tamaño mínimo, límite, para mostrar la información. El tamaño más pequeño en dispositivos móviles es de 320px ej `min-width: 320px;`
+
+- Para acomodar espacios entre tarjetas dentro de un contenedor es recomendable hacer que el contenedor sea el que tenga un espacio interno, así las tarjetas podrán tener un 100% de tamaño porque el padding detendrá su crecimiento.
+
+- Para que una imagen esté como flotante entre dos posiciones, el contenedor debería tener posición relativa y el elemento absoluta. El absolute va a buscar al primer contenedor que tenga posición relative para que se base de ahí.
+
+- Siempre que tengamos que poner un position absolute hay que mirar quien es el padre directo que tenga posicion relativa para delimitar su movimiento.
+
+- Position absolute hace que no respete el espacio en el layout y que tenga un espacio diferente. 
+
 
