@@ -33,4 +33,6 @@ This is my practice for Mobile First Diego de Granda's Platzi Course creating a 
 
 - Position absolute hace que no respete el espacio en el layout y que tenga un espacio diferente. 
 
+-Hay que delimitar el crecimiento de ciertos contenedores, como las tarjetas. Aquí las dejamos a 400px y la idea es que cuando llegue a ese pixelaje, no crezca más.
+
 
