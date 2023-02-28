@@ -391,4 +391,21 @@ main {
     color: var(--just-white);
 }
 
+.main-plans-container {
+    width: 100%;
+    min-width: 320px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.plans--title {
+    width: 90%;
+    min-width: 288px;
+    height: auto;
+    margin: 0 auto;    
+}
+
+.plans--title h2 {
+    padding-top: 50px;
+}
 
